@@ -1,0 +1,5 @@
+.MAC_Store
+
+*.rkt~
+*.scm~
+*.ss~
